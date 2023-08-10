@@ -26,6 +26,12 @@ Once the CodePipeline pipeline is created, it will automatically deploy your web
 6. Test the CodePipeline pipeline.
 7. Deploy your website.
 
+## Task completion
+
+As a proof of succefully completed task should be used URL of created static website, like follows:<br> 
+
+[https://singlepage-webapp.s3.eu-central-1.amazonaws.com/](https://singlepage-webapp.s3.eu-central-1.amazonaws.com/)
+
 ## Additional Resources:
 
 Here are some additional resources that you may find helpful:
