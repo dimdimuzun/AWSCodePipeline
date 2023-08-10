@@ -28,6 +28,8 @@ Once the CodePipeline pipeline is created, it will automatically deploy your web
 
 ## Task completion
 
+Step-by-step process of task completion has detailed description in prepared material on moodle LMS (AWS_CodePipeline_CodeCommit).
+
 In source file `index.html` should be added string like `Author: YourName YourSurname YourGroup`
 
 As a proof of succefully completed task should be provided URL of created static website, like follows:<br> 
