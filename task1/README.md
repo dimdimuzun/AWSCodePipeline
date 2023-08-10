@@ -28,6 +28,8 @@ Once the CodePipeline pipeline is created, it will automatically deploy your web
 
 ## Task completion
 
+In source file 'index.html' should be added string like 'Author: YourName YourSurname YourGroup'
+
 As a proof of succefully completed task should be provided URL of created static website, like follows:<br> 
 
 [http://singlepage-webapp.s3-website.eu-central-1.amazonaws.com/](http://singlepage-webapp.s3-website.eu-central-1.amazonaws.com/)
